@@ -5,7 +5,8 @@ Welcome to the Reactive Extensions (Rx) Koans
 55 progressive examples to help you learn Rx
 By: Bart De Smet & Llewellyn Falco
 
-Ported to XUnit, original based on MSTest http://rxkoans.codeplex.com/
+Ported to XUnit, original based on MSTest
+http://rxkoans.codeplex.com/
 
 Definition of ‘Koan’
 --------------------
@@ -51,3 +52,4 @@ Links:
 ------
 Rx : http://msdn.microsoft.com/data/gg577609
 Javascript Rx Koans: https://github.com/panesofglass/RxJSKoans/network
+Original project: http://rxkoans.codeplex.com/

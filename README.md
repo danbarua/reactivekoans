@@ -5,7 +5,7 @@ Welcome to the Reactive Extensions (Rx) Koans
 55 progressive examples to help you learn Rx
 By: Bart De Smet & Llewellyn Falco
 
-Ported to XUnit, original based on MSTest
+The original project was based on MSTest, I have ported it to XUnit because MSTest is just too painfully slow to use.
 http://rxkoans.codeplex.com/
 
 Definition of ‘Koan’
